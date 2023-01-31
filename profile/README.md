@@ -5,7 +5,7 @@
 Welcome to Solidity Nirvana, the ultimate guide to Solidity.
 
 There are five levels of difficulty one must progress through to attain full enlightment.
-- Easy
+- [Easy](https://github.com/Solidity-Nirvana/Easy)
 - Medium
 - Hard
 - Complex

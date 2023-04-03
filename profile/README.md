@@ -12,10 +12,9 @@ There are five levels of difficulty one must progress through to attain full enl
 - Master
 
 Each difficult has its own repository, each with an `episodes` folder that contains:
-- A file called `_Notes.txt` which outlines the agenda for the episode and has reference links
-- A few Solidity contracts, used to teach and demonstrate new concepts
-- A folder named `scenarios`, which utilizes base-level contracts to showcase functionality
-- A folder named `puzzles`, which contains puzzles you must solve to progress and reinforce your knowledge
+- A file called `_Agenda.txt` which outlines the agenda for the episode and has reference links
+- A folder named `scenarios`, which contains a series of contracts to showcase examples and demonstrate ideas
+- A folder named `puzzles`,   which contains a series of puzzles you must solve to progress and reinforce your knowledge
 
 To learn more, visit: [`soliditynirvana.com`](https://www.soliditynirvana.com)
 

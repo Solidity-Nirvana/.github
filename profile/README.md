@@ -18,8 +18,6 @@ Each difficult has its own repository, each with an `episodes` folder that conta
 
 To learn more, visit: [`soliditynirvana.com`](https://www.soliditynirvana.com)
 
-Lifetime access to videos and solutions is $60 (with student pricing at $20).
-
 ---
 
 *SolidityNirvana is not a race, but rather a journey.*

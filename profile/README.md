@@ -16,8 +16,6 @@ Each difficult has its own repository, each with an `episodes` folder that conta
 - A folder named `scenarios`, which contains a series of contracts to showcase examples and demonstrate ideas
 - A folder named `puzzles`,   which contains a series of puzzles you must solve to progress and reinforce your knowledge
 
-To learn more, visit: [`soliditynirvana.com`](https://www.soliditynirvana.com)
-
 ---
 
 *SolidityNirvana is not a race, but rather a journey.*
